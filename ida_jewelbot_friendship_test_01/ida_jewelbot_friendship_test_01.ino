@@ -22,6 +22,7 @@ void loop() {
     first_time_red = true;
   LED led;
   led.flash_single(SE, BLUE, 1000);
+  // this is a comment
   }
 }  
 

@@ -1,0 +1,7 @@
+{
+    "arduino.path": "C:/Program Files (x86)/Arduino",
+    "arduino.additionalUrls": "https://jewelbots.github.io/arduino-library/package_jewelbots_index.json,https://jewelbots.github.io/arduino-firmware/package_jewelbots_firmware_index.json,https://jewelbots.github.io/arduino-friendship/package_jewelbots_friendship_index.json",
+    "arduino.logLevel": "info",
+    "arduino.enableUSBDetection": true,
+    "files.associations": {"*.ino":"cpp"}
+}
