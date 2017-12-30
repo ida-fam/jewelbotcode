@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 // Declare Jewelbots hardware components to use
 Buzzer buzz;
 Timer timer;

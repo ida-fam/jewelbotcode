@@ -1,3 +1,4 @@
+#include <Arduino.h>
 
 int number_of_short_presses = 0;
 int number_of_long_presses = 0;

@@ -1,0 +1,5 @@
+{
+    "board": "Jewelbots_Friendship_Library:Jewelbot_v1:nRF51822",
+    "port": "COM4",
+    "sketch": "marco_jewelbot_test_button_press\\marco_jewelbot_test_button_press.ino"
+}
