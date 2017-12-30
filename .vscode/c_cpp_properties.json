@@ -52,8 +52,14 @@
                 "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/shared",
                 "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/winrt",
                 "${workspaceRoot}",
-                "C:/Users/marco_000/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/Jewelbot_v1",
-                "C:/Users/marco_000/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/.DS_Store"
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/Jewelbot_v1",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/.DS_Store",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/Jewelbot_v1/nrf51_sdk/toolchain/CMSIS/Include/",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/Jewelbot_v1/Jewelbots_src",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/Jewelbot_v1/nrf51_sdk/softdevice/s130/headers/",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/Jewelbot_v1/nrf51_sdk/libraries/fds/",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/Jewelbot_v1/nrf51_sdk/libraries/util/",
+                "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/Jewelbot_v1/nrf51_sdk/device/"
             ],
             "defines": [
                 "_DEBUG",
@@ -69,8 +75,8 @@
                     "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/shared",
                     "C:/Program Files (x86)/Windows Kits/10/Include/10.0.15063.0/winrt",
                     "${workspaceRoot}",
-                    "C:/Users/marco_000/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/Jewelbot_v1",
-                    "C:/Users/marco_000/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/.DS_Store"
+                    "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/Jewelbot_v1",
+                    "C:/Users/${env:USERNAME}/AppData/Local/Arduino15/packages/Jewelbots_Friendship_Library/hardware/Jewelbot_v1/1.1.8/cores/.DS_Store"
                 ],
                 "limitSymbolsToIncludedHeaders": false,
                 "databaseFilename": ""
