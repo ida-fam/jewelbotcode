@@ -12,9 +12,12 @@ Normally when Arduino is installed on windows all users will get access to the a
 3. Install the following extensions by pressing ctrl+p in vs code:
   * ext install vscode-arduino
   * ext install ms-vscode.cpptools
-  * ext install ms-python.python (optional)
   * ext install eamodio.gitlens (optional)
-
+  * ext install ms-python.python (optional)
+## Disable Windows Defender Scanning
+Windows Defender will automatically scan newly created build files. In order to speed up the compilation and upload, either disable windows defender or try to make relevant exclusions in the windows defender settings menu. A picture below shows the folder that I have excluded. Note that the arduino.json specifies a build dir above the folder of the jewelbot code.
+![alt text](https://github.com/ida-fam/jewelbotcode/blob/master/images/windows_defender_exclusion_folder.png "verify and update exclusion folders")
+  
 # GIT Setup
 If you want to use githup to host your projects you have to configure a couple of things.
 
