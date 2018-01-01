@@ -2,13 +2,13 @@
     "arduino.path": "C:/Program Files (x86)/Arduino",
     "arduino.logLevel": "info",
     "arduino.enableUSBDetection": true,
-    "files.associations": {"*.ino":"cpp"},
     "arduino.additionalUrls": [
         "https://jewelbots.github.io/arduino-library/package_jewelbots_index.json",
         "https://jewelbots.github.io/arduino-firmware/package_jewelbots_firmware_index.json",
         "https://jewelbots.github.io/arduino-friendship/package_jewelbots_friendship_index.json",
         "http://arduino.esp8266.com/stable/package_esp8266com_index.json"
     ],
+    "files.associations": {"*.ino":"cpp"},
     "C_Cpp.intelliSenseEngineFallback": "Disabled",
     "C_Cpp.intelliSenseEngine": "Default",
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",

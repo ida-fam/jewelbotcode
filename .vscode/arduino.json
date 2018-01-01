@@ -1,5 +1,6 @@
 {
-    "board": "Jewelbots_Friendship_Library:Jewelbot_v1:nRF51822",
-    "port": "COM4",
-    "sketch": "marco_jewelbot_test_button_press\\marco_jewelbot_test_button_press.ino"
+    "board": "Jewelbots_Arduino_Library:nRF51822:nRF51822",
+    "port": "COM5",
+    "sketch": "isabella_jewelbot_solo_mode_color_buzz_via_pres\\isabella_jewelbot_solo_mode_color_buzz_via_press.ino",
+    "output": "../build"
 }

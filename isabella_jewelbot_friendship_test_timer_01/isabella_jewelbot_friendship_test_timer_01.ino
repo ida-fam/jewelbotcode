@@ -14,9 +14,10 @@ void setup() {
 int antal_kvarter =0;
 
 void loop() {
-  timer.pause(2000);
+  timer.pause(1000);
  
   buzz.long_buzz();
+  //buzz.custom_buzz(100, 5000);
   ++antal_kvarter;
 
   if((antal_kvarter%4)==0) {
